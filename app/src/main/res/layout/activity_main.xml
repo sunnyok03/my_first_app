@@ -64,7 +64,7 @@
         android:id="@+id/textView2"
         android:layout_width="300dp"
         android:layout_height="50dp"
-        android:text="In which year you belongs to?"
+        android:text="In which year you belong to?"
         android:textColor="@color/purple_700"
         android:textSize="20dp"
         app:layout_constraintBottom_toBottomOf="@+id/button2"
